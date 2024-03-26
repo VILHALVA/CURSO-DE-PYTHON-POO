@@ -63,3 +63,4 @@
 - [VEJA A SINTAXE](./SINTAXE.md)
 - [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 - [SE TORNE O MESTRE DO PYTHON](https://github.com/VILHALVA/MESTRE-DO-PYTHON)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON)
